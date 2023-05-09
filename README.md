@@ -1,5 +1,4 @@
 # Task Manager App 
 
-#
 
-Basic to-do list app made with laravel framework and MySql.
+Basic to-do list app made with Laravel framework and MySql.
